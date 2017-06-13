@@ -12,3 +12,4 @@ function mutation(arr) {
 
 mutation(["hello", "hey"]);
 /* FCC CODE */
+/*FCC ALGO CHALLENGE */
